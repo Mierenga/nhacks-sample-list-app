@@ -1,4 +1,4 @@
-# nhacks-BasicListApp
+# nhacks-sample-list-app
 
 This is the project for the Android Workshop at NHacks III (https://nhacks.org/)
 
